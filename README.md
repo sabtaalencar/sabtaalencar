@@ -6,8 +6,9 @@
   <br /> 
   <h6>Contact me, will be nice!</h6>
     <a href="https://linkedin.com/in/sabta-mendes-alencar-91b58723b">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
+ <!--versao black <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />-->
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" alt="linkedin logo" />
+</a>
   <br />
   <br />
   <h3>Languages and Tools:</h3>
@@ -19,8 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26px" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   width="26px" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"   width="26px" alt="figma logo" />
- 
-    <!--Para novasferramentas e linguagens-->
+
 <br />
 <br />
 <br />
