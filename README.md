@@ -5,7 +5,7 @@
   <br />
   <br /> 
   <h6>Contact me, will be nice!</h6>
-    <a href="https://linkedin.com/in/sabta-mendes-alencar-91b58723b">
+    <a href="https://www.linkedin.com/in/sabta-alencar/">
  <!--versao black <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />-->
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" alt="linkedin logo" />
 </a>
